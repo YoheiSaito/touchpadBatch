@@ -3,7 +3,7 @@
 TouchPad Batch provide you easy to turn on/off your laptop touchpad
 
 ## Descripstion
-This script enable or disable touchpad of note PC.
+This script enable/disable touchpad of laptop PC.
 
 ## Requirement 
 
